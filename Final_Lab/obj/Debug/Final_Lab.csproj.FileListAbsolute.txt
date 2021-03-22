@@ -1,0 +1,6 @@
+F:\c#\Final_Lab\Final_Lab\bin\Debug\Final_Lab.exe.config
+F:\c#\Final_Lab\Final_Lab\bin\Debug\Final_Lab.exe
+F:\c#\Final_Lab\Final_Lab\bin\Debug\Final_Lab.pdb
+F:\c#\Final_Lab\Final_Lab\obj\Debug\Final_Lab.csprojResolveAssemblyReference.cache
+F:\c#\Final_Lab\Final_Lab\obj\Debug\Final_Lab.exe
+F:\c#\Final_Lab\Final_Lab\obj\Debug\Final_Lab.pdb
