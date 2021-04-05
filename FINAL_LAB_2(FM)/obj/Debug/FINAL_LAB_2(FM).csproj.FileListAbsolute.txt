@@ -1,0 +1,9 @@
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\bin\Debug\FINAL_LAB_2(FM).exe.config
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\bin\Debug\FINAL_LAB_2(FM).exe
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\bin\Debug\FINAL_LAB_2(FM).pdb
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\obj\Debug\FINAL_LAB_2(FM).csprojResolveAssemblyReference.cache
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\obj\Debug\FINAL_LAB_2_FM_.Form1.resources
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\obj\Debug\FINAL_LAB_2_FM_.Properties.Resources.resources
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\obj\Debug\FINAL_LAB_2(FM).csproj.GenerateResource.Cache
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\obj\Debug\FINAL_LAB_2(FM).exe
+F:\c#\FINAL_LAB_2(FM)\FINAL_LAB_2(FM)\obj\Debug\FINAL_LAB_2(FM).pdb
